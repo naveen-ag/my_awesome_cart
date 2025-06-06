@@ -12,7 +12,7 @@ SECRET_KEY = 'django-insecure-fe^!glh_fplz-p+tsc2@bj4&!75#kvw*dw$r)5^ey!91_cc8i=
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
+# print(naveen)
 ALLOWED_HOSTS = []
 
 
